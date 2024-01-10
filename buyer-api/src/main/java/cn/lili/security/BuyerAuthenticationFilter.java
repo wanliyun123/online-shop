@@ -118,4 +118,3 @@ public class BuyerAuthenticationFilter extends BasicAuthenticationFilter {
     }
 
 }
-

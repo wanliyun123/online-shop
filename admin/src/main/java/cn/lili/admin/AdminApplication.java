@@ -22,7 +22,7 @@ import java.util.UUID;
 @EnableAutoConfiguration
 @EnableAdminServer
 public class AdminApplication {
-
+// mass entrance
     public static void main(String[] args) {
         SpringApplication.run(AdminApplication.class, args);
     }
